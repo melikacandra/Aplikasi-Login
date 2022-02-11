@@ -5,4 +5,4 @@ Sebuah aplikasi dengan fitur login berdasarkan petunjuk course memulai Dasar Pem
 Alur fitur Login:
 1. Memasukkan email dan password
 2. Memvalidasi masukan.
-3. Menampilkan halaman beranda.
+3. Menampilkan halaman home.
